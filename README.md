@@ -3,9 +3,9 @@
 ## Contents  
 **Code**  
 **Presentation**  
-**Figure 1**
-**Figure 2**
-**Figure 3**
+**Figure 1**  
+**Figure 2**  
+**Figure 3**  
 ## Decription
 In this project we calculate the configurational entropy for cold white dwarves.  
 First we solve the Lane-Emden equation and we calculate the Normalized modal fraction  for
